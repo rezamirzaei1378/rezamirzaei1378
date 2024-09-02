@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="<img id="dimg_1" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAiCAMAAAA9FerRAAAARVBMVEX///84vfgvu/jv+f4cuPjS7f1tyvnI6f2Y2PuM1Prk9P5Kwfi54/yH0vr2+//6/f+j3Puv4Pzc8f1ix/l4zfoAsve/5vw44gReAAABXklEQVQ4jZ2V7ZaDIAxEJQQQkVbR7fs/6kZrWxk4ld35K9d8kAldV5Ue/RKUCosfdf1EVckykdpFxItp5SIf1MGyvTVxIcOeYVMDtxSciN0l19MWoYD5kR+7IzcwMdm4BqavMScEVw7PJurIQI6nYxYS6PTP51cGY/r3qYWLCs+/1SpHSc2DVJc8c49gngGScqUyEFI9Fb3BzJFsvpxbOQ3CFYnWZPl/XNeN+TSQus7zpVmm4RCHuXJAJ2NS1X7aTT5GP7ny63220uhNZOc2F+3q+VOJJOSv7unQUFw0NXUgFR1v6/mtPh3xEhTL761GcoV6kHPSlzi6Rx/QgFlM7REM/LKgQRudYmrGJZn4lAMsKgqv7TaywoA+GwaLrl9mZ1wvRsRdgTUjuRtXuheQK4TkEbnhBcHttnNNz8eIK7XtBRDp9YwSx8aR39ApbAbbjBamvzyQmwbjnCnm7K1flHkKLWaV5wkAAAAASUVORK5CYII=" class="YQ4gaf zr758c wA1Bge" height="34" width="56" alt="" data-csiid="NjHWZpfjNvqHkdUP687woAQ_4" data-atf="1">" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="12" />
