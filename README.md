@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAiCAMAAAA9FerRAAAARVBMVEX///84vfgvu/jv+f4cuPjS7f1tyvnI6f2Y2PuM1Prk9P5Kwfi54/yH0vr2+//6/f+j3Puv4Pzc8f1ix/l4zfoAsve/5vw44gReAAABXklEQVQ4jZ2V7ZaDIAxEJQQQkVbR7fs/6kZrWxk4ld35K9d8kAldV5Ue/RKUCosfdf1EVckykdpFxItp5SIf1MGyvTVxIcOeYVMDtxSciN0l19MWoYD5kR+7IzcwMdm4BqavMScEVw7PJurIQI6nYxYS6PTP51cGY/r3qYWLCs+/1SpHSc2DVJc8c49gngGScqUyEFI9Fb3BzJFsvpxbOQ3CFYnWZPl/XNeN+TSQus7zpVmm4RCHuXJAJ2NS1X7aTT5GP7ny63220uhNZOc2F+3q+VOJJOSv7unQUFw0NXUgFR1v6/mtPh3xEhTL761GcoV6kHPSlzi6Rx/QgFlM7REM/LKgQRudYmrGJZn4lAMsKgqv7TaywoA+GwaLrl9mZ1wvRsRdgTUjuRtXuheQK4TkEbnhBcHttnNNz8eIK7XtBRDp9YwSx8aR39ApbAbbjBamvzyQmwbjnCnm7K1flHkKLWaV5wkAAAAASUVORK5CYII=" height="40" alt="tailwindcss logo"  />
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M25.517 0C18.712 0 14.46 3.382 12.758 10.146c2.552-3.382 5.529-4.65 8.931-3.805 1.941.482 3.329 1.882 4.864 3.432 2.502 2.524 5.398 5.445 11.722 5.445 6.804 0 11.057-3.382 12.758-10.145-2.551 3.382-5.528 4.65-8.93 3.804-1.942-.482-3.33-1.882-4.865-3.431C34.736 2.92 31.841 0 25.517 0zM12.758 15.218C5.954 15.218 1.701 18.6 0 25.364c2.552-3.382 5.529-4.65 8.93-3.805 1.942.482 3.33 1.882 4.865 3.432 2.502 2.524 5.397 5.445 11.722 5.445 6.804 0 11.057-3.381 12.758-10.145-2.552 3.382-5.529 4.65-8.931 3.805-1.941-.483-3.329-1.883-4.864-3.432-2.502-2.524-5.398-5.446-11.722-5.446z" fill="#38bdf8"></path>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="12" />
