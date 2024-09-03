@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/rezamirzaei1378/rezamirzaei1378/blob/main/myLogo.png"  />
+  <img height="150" src="./myLogo.png"  />
 </div>
 
 ###
@@ -52,6 +52,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget logo"  />
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rezamirzaei1378&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 <!--###
 
 <h3 align="left">🔥   My Stats :</h3>
